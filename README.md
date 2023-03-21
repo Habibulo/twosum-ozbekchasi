@@ -1,2 +1,2 @@
 # twosum-ozbekchasi
-Bu şahikada leetcode daği twosum mashqini yechimi ozbek tilida tushunarli qilib yaratilgan
+Bu sahifada leetcode dagi twosum mashqini yechimi ozbek tilida tushunarli qilib yaratilgan
